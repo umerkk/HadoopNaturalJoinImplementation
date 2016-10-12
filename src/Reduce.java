@@ -10,15 +10,15 @@ import org.apache.hadoop.mapred.Reporter;
 
 /*
  * **********************************************
- * 												*
- * 	Comp 6521 - Advance Database Applications	*
- * 				Project # 1						*
- * 		Implement Natural Join using Hadoop		*
- * 												*
- * 				Developed By:					*
- * 			Muhammad Umer (40015021)			*
- * 				Hamzah Hamdi					*
- * 												*
+ *                                              *
+ * Comp 6521 - Advance Database Applications    *
+ * Project # 1                                  *
+ * Implement Natural Join using Hadoop          *
+ *                                              *
+ * Developed By:                                *
+ * Muhammad Umer (40015021)                     *
+ * Hamzah Hamdi                                 *
+ *                                              *
  * **********************************************
  */
 
